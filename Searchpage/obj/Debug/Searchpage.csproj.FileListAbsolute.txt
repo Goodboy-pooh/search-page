@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\bin\Debug\Searchpage.exe.config
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\bin\Debug\Searchpage.exe
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\bin\Debug\Searchpage.pdb
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\obj\Debug\Searchpage.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\obj\Debug\Searchpage.Form1.resources
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\obj\Debug\Searchpage.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\obj\Debug\Searchpage.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\obj\Debug\Searchpage.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\obj\Debug\Searchpage.exe
+C:\Users\ADMIN\source\repos\Searchpage\Searchpage\obj\Debug\Searchpage.pdb
